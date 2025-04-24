@@ -22,12 +22,21 @@ body{
 /* *** QUANTITATIVE *** */
 /* ******************** */
 
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: calc(100vh - 32px);
+}
+
 #card {
     width: calc(320px - 32px); /* subtract padding */
     height: calc(499px - 32px); /* subtract padding */
-    margin: 100px auto;
+    margin: 0 auto;
     padding: 16px;
     border-radius: 22px;
+    -ms-transform: translateY(calc(50% - 160px)); /* half the page, minus half the card's height */
+    transform: translateY(calc(50% - 160px)); /* half the page, minus half the card's height */
 }
 
 #card h2 {
