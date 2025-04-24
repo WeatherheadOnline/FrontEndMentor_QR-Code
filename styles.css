@@ -43,8 +43,8 @@ main {
     margin: 0 auto;
     padding: 16px;
     border-radius: 22px;
-    -ms-transform: translateY(calc(50% - 160px)); /* half the page, minus half the card's height */
-    transform: translateY(calc(50% - 160px)); /* half the page, minus half the card's height */
+    -ms-transform: translateY(calc(50vh - 250px)); /* half the page, minus half the card's height */
+    transform: translateY(calc(50vh - 250px)); /* half the page, minus half the card's height */
 }
 
 #card h2 {
