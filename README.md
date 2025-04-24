@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This was the first project in FrontEndMentor.io's onboarding leaning path. It was a simple project, making it easier for me to focus on getting familiar with using Figma. I was surprised to not have to make any changes to the CSS to accommodate both desktop and mobile.
+This was the first project in FrontEndMentor.io's onboarding leaning path. It was a simple project, making it easier for me to focus on getting familiar with using Figma. I was surprised to not have to make any changes to the CSS to accommodate both desktop and mobile (with the exception of the drop-shadow).
 
 ### Links
 
