@@ -42,21 +42,14 @@ body{
 /* *** QUANTITATIVE *** */
 /* ******************** */
 
-main {
-    /* display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: calc(100vh - 1.6rem); */
-}
-
 #card {
     width: calc(32rem - 3.2rem); /* subtract padding */
     height: calc(49.9rem - 3.2rem); /* subtract padding */
     margin: 0 auto;
     padding: 1.6rem;
     border-radius: 2.2rem;
-    -ms-transform: translateY(calc(50vh - 25rem)); /* half the page, minus half the card's height */
-    transform: translateY(calc(50vh - 25rem)); /* half the page, minus half the card's height */
+    -ms-transform: translateY(calc(50vh - 26rem)); /* half the page, minus half the card's height */
+    transform: translateY(calc(50vh - 26rem)); /* half the page, minus half the card's height */
 }
 
 #card h2 {
